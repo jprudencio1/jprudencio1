@@ -3,20 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!%20My%20Name%20is%20Henrique%20Massagli;I'm%2018%20years%20old;I'm%20from%20Brazil;Majoring%20in%20Information%20Systems.;Be%20Welcome!%20:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueMassagli&show_icons=true&count_private=true&hide_border=false&title_color=654597&icon_color=D1B490&text_color=F0F4EF&bg_color=0d1117" alt="Henrique Massagli github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueMassagli&locale=en&title_color=654597&layout=compact&card_width=334&langs_count=5&theme=midnight-purple&hide_border=false" alt="languages graph" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jprudencio1&show_icons=true&count_private=true&hide_border=false&title_color=654597&icon_color=D1B490&text_color=F0F4EF&bg_color=0d1117" alt="João Vyctor github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jprudencio1&locale=en&title_color=654597&layout=compact&card_width=334&langs_count=5&theme=midnight-purple&hide_border=false" alt="languages graph" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMassagli&bg_color=000000&color=c7ac89&line=644496&point=7699d4&area=true&hide_border=true)](https://github.com/HenriqueMassagli)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jprudencio1&bg_color=000000&color=c7ac89&line=644496&point=7699d4&area=true&hide_border=true)](https://github.com/jprudencio1)
 
 <div align="center">
   <h3>Main skills:</h3>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Css3 logo" />
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="40" alt="MySQL logo" />
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="40" alt="Python logo" />
 </div>
 
 <div align="center"> 
