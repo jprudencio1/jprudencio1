@@ -30,7 +30,7 @@
 <div align="center">
   <h3>Contact:</h3>
   <br>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vyctor-prud%C3%AAncio-vieira-lima-b9a2a8290/" target="_blank](https://www.linkedin.com/in/jo%C3%A3o-vyctor-prud%C3%AAncio-vieira-lima-b9a2a8290/)">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vyctor-prud%C3%AAncio-vieira-lima-b9a2a8290/" target="_blank" rel="noopener noreferrer"></a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
