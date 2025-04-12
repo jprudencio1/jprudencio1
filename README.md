@@ -21,18 +21,19 @@
 
 <div align="center"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jprudencio1/jprudencio1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jprudencio1/jprudencio1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jprudencio1/jprudencio1/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <div align="center">
   <h3>Contact:</h3>
   <br>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vyctor-prud%C3%AAncio-vieira-lima-b9a2a8290/" target="_blank" rel="noopener noreferrer"></a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-vyctor-prud%C3%AAncio-vieira-lima" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=footer"/>
